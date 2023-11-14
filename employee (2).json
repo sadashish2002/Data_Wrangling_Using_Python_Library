@@ -1,0 +1,65 @@
+[{
+		"id ": 1,
+		"name ": "john",
+		"age ": 20,
+		"gender": "male",
+		"department": "hr",
+		"salary": 500000
+	},{
+		"id ": 2,
+		"name ": "jane",
+		"age ": 23,
+		"gender": "female",
+		"department": "marketing",
+		"salary": 600000
+	},{
+		"id ": 3,
+		"name ": "joey",
+		"age ": 23,
+		"gender": "male",
+		"department": "it",
+		"salary": 300000
+	},{
+		"id ": 4,
+		"name ": "sarah",
+		"age ": 25,
+		"gender": "female",
+		"department": "hr",
+		"salary": 450000
+	},{
+		"id ": 5,
+		"name ": "rose",
+		"age ": 28,
+		"gender": "male",
+		"department": "hr",
+		"salary": 700000
+	},{
+		"id ": 6,
+		"name ": "bing",
+		"age ": 29,
+		"gender": "male",
+		"department": "finance",
+		"salary": 800000
+	},{
+		"id ": 7,
+		"name ": "rach",
+		"age ": 41,
+		"gender": "female",
+		"department": "it",
+		"salary": 600000
+	},{
+		"id ": 8,
+		"name ": "monica",
+		"age ": 23,
+		"gender": "female",
+		"department": "marketing",
+		"salary": 7000000
+	},{
+		"id ": 9,
+		"name ": "pheebe",
+		"age ": 35,
+		"gender": "female",
+		"department": "it",
+		"salary": 4000000
+	}
+]
